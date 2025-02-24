@@ -1,11 +1,10 @@
-# Hello! I'm Yasser <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15/animated/1f44b.gif" width="30px">
+# Hello! I'm Rugby Burgos <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15/animated/1f44b.gif" width="30px">
 
-## Web Developer Trainee 🎨
 ---
 
 ### 💡 About Me
 
-I'm Yasser, a web developer trainee passionate about learning and implementing the latest web technologies. I enjoy solving complex problems and working on projects that make a difference.
+I am Rugby, a computer engineering student eager to learn and make a difference in the world. I enjoy working on different projects and being able to contribute new things.
 
 
 ### 🛠️ Technologies & Tools
