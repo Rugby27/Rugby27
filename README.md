@@ -30,14 +30,4 @@ I am Rugby, a computer engineering student eager to learn and make a difference 
 
 ### 📫 Contact Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/yasser-darce-mairena-00917126b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Yasser%20Darce-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:yasserdarce15@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-yasserdarce15@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
-
----
-
-### 📈 GitHub Stats
-
-![Yasser's GitHub Stats](https://github-readme-stats.vercel.app/api?username=D-Maysena&show_icons=true&hide_border=true&theme=radical)
 
