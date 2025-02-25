@@ -26,6 +26,10 @@ I am Rugby, a computer engineering student eager to learn and make a difference 
 
 ### 📫 Contact Me
 
+<a href="https://www.linkedin.com/in/josue-burgos-6a3b17306/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:sorianox2013@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<hr>
+
 <img align="right" width="375" alt="GIF" src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/dino.gif" />
 
 <p align= "center">
